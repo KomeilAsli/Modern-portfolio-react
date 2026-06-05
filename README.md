@@ -2,23 +2,6 @@
 
 A modern, responsive portfolio website built with **React** and **Vite**. This project is designed as a clean public GitHub portfolio example for **Komeil Asli**, showing frontend development, UX/UI structure, responsive layout, reusable components, and interactive UI features.
 
-## Live Demo
-
-Add your deployed link here after publishing the project:
-
-```txt
-https://your-live-demo-link.com
-```
-
-## Preview
-
-Add screenshots here after you run the project locally:
-
-```md
-![Homepage screenshot](./public/preview-home.png)
-![Mobile menu screenshot](./public/preview-mobile.png)
-```
-
 ## Features
 
 - Modern React + Vite setup
@@ -182,9 +165,9 @@ In the same file, update:
 
 ```js
 socials: [
-  { label: 'GitHub', href: 'https://github.com/yourusername' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/yourusername' },
-  { label: 'Website', href: 'https://yourwebsite.com' },
+  { label: 'GitHub', href: 'https://github.com/KomeilAsli' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/komeilasli/' },
+  { label: 'Website', href: 'https://komeilasli.se' },
 ]
 ```
 
@@ -326,4 +309,4 @@ This project is intentionally built with a clean, simple stack so it is easy to 
 
 **Komeil Asli**
 
-UX/UI Designer & Frontend Developer
+UX/UI Designer & Web Developer
