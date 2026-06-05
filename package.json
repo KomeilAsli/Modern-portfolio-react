@@ -1,0 +1,35 @@
+{
+  "name": "modern-portfolio-react",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A modern responsive personal portfolio website built with React and Vite.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-plugin-react": "latest",
+    "eslint-plugin-react-hooks": "latest",
+    "eslint-plugin-react-refresh": "latest"
+  },
+  "keywords": [
+    "react",
+    "portfolio",
+    "frontend",
+    "ux-ui",
+    "vite",
+    "responsive-design"
+  ],
+  "author": "Komeil Asli",
+  "license": "MIT"
+}
