@@ -9,9 +9,9 @@ export const profile = {
   intro:
     'A modern portfolio concept focused on clear structure, responsive layouts, smooth interactions, and reusable React components.',
   socials: [
-    { label: 'GitHub', href: 'https://github.com/yourusername' },
-    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/yourusername' },
-    { label: 'Website', href: 'https://yourwebsite.com' },
+    { label: 'GitHub', href: 'https://github.com/KomeilAsli' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/komeilasli/' },
+    { label: 'Website', href: 'https://komeilasli.se' },
   ],
 }
 
