@@ -1,6 +1,6 @@
 # Modern Portfolio React
 
-A modern, responsive portfolio website built with **React** and **Vite**. This project is designed as a clean public GitHub portfolio example for **Komeil Asli**, showing frontend development, UX/UI structure, responsive layout, reusable components, and interactive UI features.
+A modern, responsive portfolio website built with **React** and **Vite**.
 
 ## Features
 
